@@ -1,0 +1,1322 @@
+[
+  {
+    "province": "Koshi Province",
+    "districts": [
+      {
+        "name": "Taplejung",
+        "municipalities": [
+          {
+            "name": "Phungling Municipality",
+            "wards": 11
+          },
+          {
+            "name": "Pathivara Yangwarak Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Sirijangha Rural Municipality",
+            "wards": 8
+          },
+          {
+            "name": "Phaktanglung Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Mikwakhola Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Maiwakhola Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Sidingba Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Aathrai Tribeni Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Meringden Rural Municipality",
+            "wards": 6
+          }
+        ]
+      },
+      {
+        "name": "Sankhuwasabha",
+        "municipalities": [
+          {
+            "name": "Khandbari Municipality",
+            "wards": 11
+          },
+          {
+            "name": "Chainpur Municipality",
+            "wards": 11
+          },
+          {
+            "name": "Dharmadevi Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Madi Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Panchakhapan Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Makalu Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Sabhapokhari Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Bhotkhola Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Chichila Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Silichong Rural Municipality",
+            "wards": 5
+          }
+        ]
+      },
+      {
+        "name": "Solukhumbu",
+        "municipalities": [
+          {
+            "name": "Solududhakunda Municipality",
+            "wards": 11
+          },
+          {
+            "name": "Mahakulung Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Necha Salyan Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Sotang Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Thulung Dudhkoshi Rural Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Mapya Dudhkoshi Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Khumbu Pasanglhamu Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Likhu Pike Rural Municipality",
+            "wards": 5
+          }
+        ]
+      },
+      {
+        "name": "Okhaldhunga",
+        "municipalities": [
+          {
+            "name": "Siddhicharan Municipality",
+            "wards": 12
+          },
+          {
+            "name": "Likhu Rural Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Molung Rural Municipality",
+            "wards": 8
+          },
+          {
+            "name": "Sunkoshi Rural Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Champadevi Rural Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Chisankhugadhi Rural Municipality",
+            "wards": 8
+          },
+          {
+            "name": "Khijidemba Rural Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Manebhanjyang Rural Municipality",
+            "wards": 9
+          }
+        ]
+      },
+      {
+        "name": "Bhojpur",
+        "municipalities": [
+          {
+            "name": "Bhojpur Municipality",
+            "wards": 12
+          },
+          {
+            "name": "Shadananda Municipality",
+            "wards": 14
+          },
+          {
+            "name": "Arun Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Aamchowk Rural Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Hatuwagadhi Rural Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Pauwadungma Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Temkemaiyung Rural Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Salpasilichho Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Ramprasad Rai Rural Municipality",
+            "wards": 8
+          }
+        ]
+      },
+      {
+        "name": "Dhankuta",
+        "municipalities": [
+          {
+            "name": "Dhankuta Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Pakhribas Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Mahalaxmi Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Shahidbhumi Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Sangurigadhi Rural Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Chhathar Jorpati Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Chaubise Rural Municipality",
+            "wards": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Madhesh Province",
+    "districts": [
+      {
+        "name": "Parsa",
+        "municipalities": [
+          {
+            "name": "Birgunj Metropolitan City",
+            "wards": 32
+          },
+          {
+            "name": "Pokhariya Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Bahudarmai Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Parsagadhi Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Bindabasini Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Chhipaharmai Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Dhobini Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Jagarnathpur Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Jirabhawani Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Kalikamai Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Pakaha Mainpur Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Paterwa Sugauli Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Sakhuwa Prasauni Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Thori Rural Municipality",
+            "wards": 5
+          }
+        ]
+      },
+      {
+        "name": "Bara",
+        "municipalities": [
+          {
+            "name": "Gadhimai Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Kalaiya Sub-Metropolitan City",
+            "wards": 27
+          },
+          {
+            "name": "Jitpur Simara Sub-Metropolitan City",
+            "wards": 24
+          },
+          {
+            "name": "Kolhabi Municipality",
+            "wards": 11
+          },
+          {
+            "name": "Mahagadhimai Municipality",
+            "wards": 11
+          },
+          {
+            "name": "Nijagadh Municipality",
+            "wards": 13
+          },
+          {
+            "name": "Pacharauta Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Simraungadh Municipality",
+            "wards": 11
+          },
+          {
+            "name": "Adarsh Kotwal Rural Municipality",
+            "wards": 8
+          },
+          {
+            "name": "Baragadhi Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Devtal Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Karaiyamai Rural Municipality",
+            "wards": 8
+          },
+          {
+            "name": "Parwanipur Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Pheta Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Prasauni Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Subarna Rural Municipality",
+            "wards": 8
+          },
+          {
+            "name": "Bishrampur Rural Municipality",
+            "wards": 5
+          }
+        ]
+      },
+      {
+        "name": "Rautahat",
+        "municipalities": [
+          {
+            "name": "Gaur Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Ishanath Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Rajdevi Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Gujara Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Baudhimai Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Brindaban Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Chandrapur Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Dewahi Gonahi Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Durga Bhagawati Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Garuda Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Gadhimai Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Katahariya Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Madhav Narayan Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Maulapur Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Paroha Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Phatuwa Bijayapur Municipality",
+            "wards": 11
+          },
+          {
+            "name": "Rajpur Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Yamunamai Rural Municipality",
+            "wards": 5
+          }
+        ]
+      },
+      {
+        "name": "Sarlahi",
+        "municipalities": [
+          {
+            "name": "Malangwa Municipality",
+            "wards": 12
+          },
+          {
+            "name": "Parsa Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Bagmati Municipality",
+            "wards": 12
+          },
+          {
+            "name": "Balara Municipality",
+            "wards": 11
+          },
+          {
+            "name": "Barahathawa Municipality",
+            "wards": 18
+          },
+          {
+            "name": "Godaita Municipality",
+            "wards": 12
+          },
+          {
+            "name": "Hariwan Municipality",
+            "wards": 11
+          },
+          {
+            "name": "Ishworpur Municipality",
+            "wards": 15
+          },
+          {
+            "name": "Kabilasi Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Lalbandi Municipality",
+            "wards": 17
+          },
+          {
+            "name": "Basbariya Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Bishnu Rural Municipality",
+            "wards": 8
+          },
+          {
+            "name": "Brahmapuri Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Chakraghatta Rural Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Chandranagar Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Dhanakaul Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Haripur Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Haripurwa Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Kaudena Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Ramnagar Rural Municipality",
+            "wards": 7
+          }
+        ]
+      },
+      {
+        "name": "Dhanusha",
+        "municipalities": [
+          {
+            "name": "Janakpur Sub-Metropolitan City",
+            "wards": 25
+          },
+          {
+            "name": "Mithila Municipality",
+            "wards": 11
+          },
+          {
+            "name": "Kamala Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Bideha Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Chhireshwornath Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Dhanushadham Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Ganeshman Charnath Municipality",
+            "wards": 11
+          },
+          {
+            "name": "Hansapur Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Mithila Bihari Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Nagarain Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Sabaila Municipality",
+            "wards": 13
+          },
+          {
+            "name": "Shahidnagar Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Aurahi Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Bateshwor Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Dhanauji Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Janak Nandini Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Laxminiya Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Mukhiyapatti Musaharmiya Rural Municipality",
+            "wards": 6
+          }
+        ]
+      },
+      {
+        "name": "Siraha",
+        "municipalities": [
+          {
+            "name": "Siraha Municipality",
+            "wards": 22
+          },
+          {
+            "name": "Arnama Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Kalyanpur Municipality",
+            "wards": 12
+          },
+          {
+            "name": "Dhangadhimai Municipality",
+            "wards": 14
+          },
+          {
+            "name": "Golbazar Municipality",
+            "wards": 13
+          },
+          {
+            "name": "Karjanha Municipality",
+            "wards": 11
+          },
+          {
+            "name": "Lahan Municipality",
+            "wards": 24
+          },
+          {
+            "name": "Mirchaiya Municipality",
+            "wards": 12
+          },
+          {
+            "name": "Sukhipur Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Aurahi Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Bariyarpatti Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Bhagawanpur Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Bishnupur Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Laxmipur Patari Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Naraha Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Nawarajpur Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Sakhuwa Nankarkatti Rural Municipality",
+            "wards": 5
+          }
+        ]
+      },
+      {
+        "name": "Saptari",
+        "municipalities": [
+          {
+            "name": "Rajbiraj Municipality",
+            "wards": 16
+          },
+          {
+            "name": "Kanchanrup Municipality",
+            "wards": 12
+          },
+          {
+            "name": "Bode Barsain Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Dakneshwori Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Hanumannagar Kankalini Municipality",
+            "wards": 14
+          },
+          {
+            "name": "Khadak Municipality",
+            "wards": 11
+          },
+          {
+            "name": "Saptakoshi Municipality",
+            "wards": 11
+          },
+          {
+            "name": "Shambhunath Municipality",
+            "wards": 12
+          },
+          {
+            "name": "Surunga Municipality",
+            "wards": 11
+          },
+          {
+            "name": "Agnisair Krishna Savaran Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Balan Bihul Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Bishnupur Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Chhinnamasta Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Mahadeva Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Rajgadh Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Rupani Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Tilathi Koiladi Rural Municipality",
+            "wards": 8
+          },
+          {
+            "name": "Tirahut Rural Municipality",
+            "wards": 5
+          }
+        ]
+      },
+      {
+        "name": "Mahottari",
+        "municipalities": [
+          {
+            "name": "Jaleshwar Municipality",
+            "wards": 12
+          },
+          {
+            "name": "Manara Shiswa Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Ramgopalpur Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Aurahi Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Balawa Municipality",
+            "wards": 11
+          },
+          {
+            "name": "Bardibas Municipality",
+            "wards": 14
+          },
+          {
+            "name": "Bhangaha Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Gaushala Municipality",
+            "wards": 12
+          },
+          {
+            "name": "Loharpatti Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Matihani Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Ekadara Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Mahottari Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Pipara Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Samsi Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Sonama Rural Municipality",
+            "wards": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Bagmati Province",
+    "districts": [
+      {
+        "name": "Kathmandu",
+        "municipalities": [
+          {
+            "name": "Kathmandu Metropolitan City",
+            "wards": 32
+          },
+          {
+            "name": "Kirtipur Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Tokha Municipality",
+            "wards": 11
+          },
+          {
+            "name": "Chandragiri Municipality",
+            "wards": 15
+          },
+          {
+            "name": "Gokarneshwor Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Budhanilkantha Municipality",
+            "wards": 13
+          },
+          {
+            "name": "Dakshinkali Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Nagarjun Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Shankharapur Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Kageshwori Manahara Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Tarakeshwor Municipality",
+            "wards": 11
+          }
+        ]
+      },
+      {
+        "name": "Bhaktapur",
+        "municipalities": [
+          {
+            "name": "Bhaktapur Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Suryabinayak Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Madhyapur Thimi Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Changunarayan Municipality",
+            "wards": 9
+          }
+        ]
+      },
+      {
+        "name": "Lalitpur",
+        "municipalities": [
+          {
+            "name": "Lalitpur Metropolitan City",
+            "wards": 29
+          },
+          {
+            "name": "Mahalaxmi Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Godawari Municipality",
+            "wards": 14
+          },
+          {
+            "name": "Bagmati Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Konjyosom Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Mahankal Rural Municipality",
+            "wards": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Gandaki Province",
+    "districts": [
+      {
+        "name": "Kaski",
+        "municipalities": [
+          {
+            "name": "Pokhara Metropolitan City",
+            "wards": 33
+          },
+          {
+            "name": "Annapurna Rural Municipality",
+            "wards": 11
+          },
+          {
+            "name": "Machhapuchchhre Rural Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Madi Rural Municipality",
+            "wards": 12
+          },
+          {
+            "name": "Rupa Rural Municipality",
+            "wards": 7
+          }
+        ]
+      },
+      {
+        "name": "Tanahun",
+        "municipalities": [
+          {
+            "name": "Bhanu Municipality",
+            "wards": 13
+          },
+          {
+            "name": "Shuklagandaki Municipality",
+            "wards": 12
+          },
+          {
+            "name": "Byas Municipality",
+            "wards": 14
+          },
+          {
+            "name": "Bhimad Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Aanbu Khaireni Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Bandipur Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Devghat Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Ghiring Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Myagde Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Rhishing Rural Municipality",
+            "wards": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Lumbini Province",
+    "districts": [
+      {
+        "name": "Rupandehi",
+        "municipalities": [
+          {
+            "name": "Siddharthanagar Municipality",
+            "wards": 13
+          },
+          {
+            "name": "Butwal Sub-Metropolitan City",
+            "wards": 19
+          },
+          {
+            "name": "Lumbini Cultural Municipality",
+            "wards": 13
+          },
+          {
+            "name": "Devdaha Municipality",
+            "wards": 12
+          },
+          {
+            "name": "Sainamaina Municipality",
+            "wards": 11
+          },
+          {
+            "name": "Tilottama Municipality",
+            "wards": 17
+          },
+          {
+            "name": "Gaidahawa Rural Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Kanchan Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Kotahimai Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Marchawari Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Mayadevi Rural Municipality",
+            "wards": 8
+          },
+          {
+            "name": "Omsatiya Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Rohini Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Sammarimai Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Siyari Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Suddhodhan Rural Municipality",
+            "wards": 7
+          }
+        ]
+      },
+      {
+        "name": "Dang",
+        "municipalities": [
+          {
+            "name": "Ghorahi Sub-Metropolitan City",
+            "wards": 19
+          },
+          {
+            "name": "Tulsipur Sub-Metropolitan City",
+            "wards": 19
+          },
+          {
+            "name": "Lamahi Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Babai Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Banglachuli Rural Municipality",
+            "wards": 8
+          },
+          {
+            "name": "Dangisharan Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Gadhawa Rural Municipality",
+            "wards": 8
+          },
+          {
+            "name": "Rajpur Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Rapti Rural Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Shantinagar Rural Municipality",
+            "wards": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Karnali Province",
+    "districts": [
+      {
+        "name": "Surkhet",
+        "municipalities": [
+          {
+            "name": "Birendranagar Municipality",
+            "wards": 16
+          },
+          {
+            "name": "Chaukune Rural Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Bheriganga Municipality",
+            "wards": 13
+          },
+          {
+            "name": "Gurbhakot Municipality",
+            "wards": 14
+          },
+          {
+            "name": "Lekabeshi Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Panchapuri Municipality",
+            "wards": 11
+          },
+          {
+            "name": "Barahatal Rural Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Chingad Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Simta Rural Municipality",
+            "wards": 9
+          }
+        ]
+      },
+      {
+        "name": "Jumla",
+        "municipalities": [
+          {
+            "name": "Chandannath Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Kanakasundari Rural Municipality",
+            "wards": 8
+          },
+          {
+            "name": "Sinja Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Hima Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Tila Rural Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Guthichaur Rural Municipality",
+            "wards": 5
+          },
+          {
+            "name": "Tatopani Rural Municipality",
+            "wards": 8
+          },
+          {
+            "name": "Patarasi Rural Municipality",
+            "wards": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Sudurpashchim Province",
+    "districts": [
+      {
+        "name": "Kailali",
+        "municipalities": [
+          {
+            "name": "Dhangadhi Sub-Metropolitan City",
+            "wards": 19
+          },
+          {
+            "name": "Tikapur Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Ghodaghodi Municipality",
+            "wards": 12
+          },
+          {
+            "name": "Godawari Municipality",
+            "wards": 12
+          },
+          {
+            "name": "Gauriganga Municipality",
+            "wards": 11
+          },
+          {
+            "name": "Lamkichuha Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Bhajani Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Bardagoriya Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Chure Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Janaki Rural Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Joshipur Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Kailari Rural Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Mohanyal Rural Municipality",
+            "wards": 7
+          }
+        ]
+      },
+      {
+        "name": "Baitadi",
+        "municipalities": [
+          {
+            "name": "Dasharathchand Municipality",
+            "wards": 11
+          },
+          {
+            "name": "Patan Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Melauli Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Purchaudi Municipality",
+            "wards": 10
+          },
+          {
+            "name": "Dilasaini Rural Municipality",
+            "wards": 7
+          },
+          {
+            "name": "Dogadakedar Rural Municipality",
+            "wards": 8
+          },
+          {
+            "name": "Pancheshwor Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Shivanath Rural Municipality",
+            "wards": 6
+          },
+          {
+            "name": "Sigas Rural Municipality",
+            "wards": 9
+          },
+          {
+            "name": "Surnaya Rural Municipality",
+            "wards": 8
+          }
+        ]
+      }
+    ]
+  }
+]
